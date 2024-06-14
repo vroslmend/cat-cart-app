@@ -1,19 +1,10 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+A cute cat styled cart app made using **HTML**, **CSS**, **JavaScript** and **Firebase** that can be installed on Android or IOS using the Web App Manifest. Allows users to easily add any item using the `Add to Cart` button and remove item by simply tapping on the item.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+![preview](https://github.com/vroslmend/cat-cart-app/assets/89701936/f93dbc0c-c689-4e0a-a43e-b01c1242b1ab)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+
+Try it out here: https://cat-cart-by-vroslmend.netlify.app/
+
+To install as a native app click on `Add to Home Screen` in the mobile device's browser.
