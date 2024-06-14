@@ -1,4 +1,4 @@
-A cozy cat styled cart app made using **HTML**, **CSS**, **JavaScript** and **Firebase** that can be installed on Android or IOS using the Web App Manifest. Allows users to easily add any item using the `Add to Cart` button and remove item by simply tapping on the item.
+A cozy cat styled cart app made using **HTML**, **CSS**, **JavaScript** and **Firebase** that can be installed on Android or IOS using the `Add to Home Screen` feature made possible by the Web App Manifest. Allows users to easily add any item using the `Add to Cart` button and remove item by simply tapping on the item.
 
 
 ![preview](https://github.com/vroslmend/cat-cart-app/assets/89701936/f93dbc0c-c689-4e0a-a43e-b01c1242b1ab)
